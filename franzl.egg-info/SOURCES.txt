@@ -1,0 +1,9 @@
+README.md
+setup.py
+franzl/__init__.py
+franzl/franzl.py
+franzl.egg-info/PKG-INFO
+franzl.egg-info/SOURCES.txt
+franzl.egg-info/dependency_links.txt
+franzl.egg-info/entry_points.txt
+franzl.egg-info/top_level.txt

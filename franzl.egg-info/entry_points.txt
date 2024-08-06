@@ -1,0 +1,2 @@
+[console_scripts]
+franzl = franzl.franzl:main
